@@ -1,0 +1,35 @@
+﻿  Bai_03.cpp
+D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(41,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(46,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(87,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(87,10):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(87,10):
+      the missing variadic argument 2 is required by format string '%s'
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(87,10):
+      this argument is used as a buffer size
+  
+D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(102,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(102,10):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(102,10):
+      the missing variadic argument 2 is required by format string '%s'
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(102,10):
+      this argument is used as a buffer size
+  
+D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(104,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(104,10):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(104,10):
+      the missing variadic argument 2 is required by format string '%s'
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(104,10):
+      this argument is used as a buffer size
+  
+D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(207,12): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(207,12):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(207,12):
+      the missing variadic argument 2 is required by format string '%[^\n]'
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan2\BaiTapLon_Tuan2\Bai_03.cpp(207,12):
+      this argument is used as a buffer size
+  
