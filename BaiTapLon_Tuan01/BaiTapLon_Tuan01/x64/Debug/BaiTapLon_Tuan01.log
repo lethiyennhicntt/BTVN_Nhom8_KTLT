@@ -1,0 +1,10 @@
+﻿  Bai_14.cpp
+D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan01\BaiTapLon_Tuan01\Bai_14.cpp(132,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan01\BaiTapLon_Tuan01\Bai_14.cpp(132,10):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan01\BaiTapLon_Tuan01\Bai_14.cpp(132,10):
+      the missing variadic argument 2 is required by format string '%s'
+      D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan01\BaiTapLon_Tuan01\Bai_14.cpp(132,10):
+      this argument is used as a buffer size
+  
+  BaiTapLon_Tuan01.vcxproj -> D:\BTVN_Nhom8_KTLT - Copy - Copy\BaiTapLon_Tuan01\x64\Debug\BaiTapLon_Tuan01.exe
